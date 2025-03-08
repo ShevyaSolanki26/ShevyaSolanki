@@ -1,5 +1,5 @@
 # ShevyaSolanki
-Shevya Solanki - Portfolio
+ ! Welcome to the official portfolio repository of Shevya Solanki !
 
 👋 Hi, I'm Shevya Solanki!
 🚀 Expertise in: DSA | Java | SQL | HTML | CSS | JavaScript |DBMS Backend & Data Integration

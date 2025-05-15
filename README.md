@@ -1,13 +1,13 @@
 # ShevyaSolanki
  ! Welcome to the official portfolio repository of Shevya Solanki !
 
-👋 Hi, I'm Shevya Solanki!
-🚀 Expertise in: DSA | Java | SQL | HTML | CSS | JavaScript |DBMS Backend & Data Integration
+👋 Hi, I'm Shevya Solanki!                                                                                                                                                                         
+🚀 Expertise in: DSA | Java | SQL | HTML | CSS | JavaScript | React | DBMS | Backend & Data Integration 
 
-🔹 Tech Stack: Java, JS     
+🔹 Tech Stack: Java, SQL, JS  
 🔹 Data & Cloud: Oracle Data Integrator (ODI), OCI, SQL, Data Pipelines   
 🔹 Passionate about solving complex problems with Data Structures & Algorithms   
-🔹 Experienced in Backend Development using Java, SQL, JS   
+🔹 Experienced in Backend Development using Java, SQL, JS, React, SpringBoot  
 🔹 Building responsive and dynamic web applications with HTML, CSS, and JavaScript   
 🔹 Enthusiastic about learning new technologies and optimizing system performance   
 
@@ -17,8 +17,6 @@
 
 🔗 Let's connect! 
 
-https://www.hackerrank.com/profile/shevyasolanki267
-
-https://leetcode.com/u/Shevya_26/
-
-https://www.credly.com/users/shevya-solanki.f4d04a79
+LEETCODE :  https://leetcode.com/u/Shevya_26/                                                                                                                                                        
+HACKERRANK: https://www.hackerrank.com/profile/shevyasolanki267                                                                                                                                       
+CREDLY : https://www.credly.com/users/shevya-solanki.f4d04a79

@@ -16,7 +16,6 @@
 📌 Always coding, always learning! 🚀
 
 🔗 Let's connect! 
-
-LEETCODE :  https://leetcode.com/u/Shevya_26/                                                                                                                                                        
-HACKERRANK: https://www.hackerrank.com/profile/shevyasolanki267                                                                                                                                       
-CREDLY : https://www.credly.com/users/shevya-solanki.f4d04a79
+LeetCode:  https://leetcode.com/u/Shevya_26/                                                                                                                                                        
+HackerRank: https://www.hackerrank.com/profile/shevyasolanki267                                                                                                                                       
+Credly : https://www.credly.com/users/shevya-solanki.f4d04a79
